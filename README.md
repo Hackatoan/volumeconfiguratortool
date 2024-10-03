@@ -1,3 +1,6 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/hackatoa)
+
+
 # volumeconfiguratortool
 A tool to play any mp3 file to select speakers. Idea is too allow for fine configuration of your audio system especially with tools like voicemeeter or obs
 
