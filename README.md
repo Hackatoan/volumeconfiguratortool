@@ -20,10 +20,11 @@ To run this project, you need to have Python installed along with the following 
    cd your-repo
 
 2. Install the required packages
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
 
 Run the Application
-
+```bash
 python audioplayer.py
