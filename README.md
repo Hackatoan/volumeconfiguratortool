@@ -4,6 +4,8 @@
 # volumeconfiguratortool
 A tool to play any mp3 file to select speakers. Idea is too allow for fine configuration of your audio system especially with tools like voicemeeter or obs
 
+![image](https://github.com/Hackatoan/volumeconfiguratortool/blob/main/example.png)
+
 ## Requirements
 
 To run this project, you need to have Python installed along with the following packages:
